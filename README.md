@@ -1,6 +1,8 @@
 # Currículo Web - Gabrielle Marchioli
 
-Este é o repositório do meu currículo web, desenvolvido ao longo de 3 anos cursando técnico em desenvolvimento de sistemas.
+Este é o repositório do meu currículo web.
+
+![Capturar1](https://github.com/GabrielleMarchioli/Curriculo/assets/109180231/a73c2a51-0ec0-4f9a-bb77-6343eda9fb42)
 
 ## Conteúdo
 
@@ -26,7 +28,6 @@ O currículo é uma página web estática que destaca minha experiência, forma�
 
 - HTML5
 - CSS3
-- Font Awesome
 - Google Fonts
 
 ## Como Usar
