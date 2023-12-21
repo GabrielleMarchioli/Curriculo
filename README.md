@@ -1,6 +1,6 @@
 # Currículo Web - Gabrielle Marchioli
 
-Este é o repositório do meu currículo web.
+Este é o repositório do meu currículo web desenvolvido em html e css.
 
 ![Capturar1](https://github.com/GabrielleMarchioli/Curriculo/assets/109180231/a73c2a51-0ec0-4f9a-bb77-6343eda9fb42)
 
